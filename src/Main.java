@@ -4,5 +4,13 @@ public class Main {
 
         System.out.println("this is a line printed");
 
+
+        }
+
+    public int subtract(int x, int y){
+
+        return x-y;
     }
+
+
 }
