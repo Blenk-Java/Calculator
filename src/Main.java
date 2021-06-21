@@ -2,6 +2,9 @@ public class Main {
 
     public static void main(String[] args) {
 
+        int x = 0;
+        int y = 0;
+
         System.out.println("this is a line printed");
         int a = 8;
         int b = 4;
@@ -18,5 +21,11 @@ public class Main {
     public int subtract(int x, int y){
 
         return x-y;
+
+
+
+    }
+    public static int multiply(int x, int y){
+        return x * y;
     }
 }
